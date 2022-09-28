@@ -1,2 +1,2 @@
-# SW---Introduction-II
+# SW-Introduction-II
 Swift Operators Introduction
